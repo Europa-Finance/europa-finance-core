@@ -1,11 +1,11 @@
 {
-  "name": "@pancakeswap-libs/pancake-swap-core",
-  "description": "🎛 Core contracts for the pancake protocol",
-  "version": "0.1.0",
-  "homepage": "https://pancakeswap.finance",
+  "name": "@europa-finance/europa-finance-core",
+  "description": "🎛 Core contracts for the europa finance protocol",
+  "version": "0.1.1",
+  "homepage": "https://europa.finance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pancakeswap/pancake-swap-core.git"
+    "url": "https://github.com/Europa-Finance/europa-finance-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
